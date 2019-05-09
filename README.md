@@ -21,11 +21,9 @@ https://stackoverflow.com/questions/768373/what-is-the-difference-between-make-a
 
 https://github.com/cs50/libcs50
 
-*Mac make install error: No such file or directory #142*
+  Mac make install error: No such file or directory #142
+  https://github.com/cs50/libcs50/issues/142
 
-https://github.com/cs50/libcs50/issues/142
-
-*macOS Mojave compiling issue #158*
-
-https://github.com/cs50/libcs50/issues/158
+  macOS Mojave compiling issue #158
+  https://github.com/cs50/libcs50/issues/158
 
