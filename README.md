@@ -15,7 +15,7 @@ make hello
 ./hello
 ```
 
-https://stackoverflow.com/questions/768373/what-is-the-difference-between-make-and-gcc
+[makefile - What is the difference between make and gcc? - Stack Overflow](https://stackoverflow.com/questions/768373/what-is-the-difference-between-make-and-gcc)
 
 ## Install libcs50 for local run
 
