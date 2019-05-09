@@ -1,4 +1,4 @@
-## Review the C in CS50
+## Trial run the C code from CS50
 
 ```shell
 clang hello.cpp -o hello.out
