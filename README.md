@@ -23,11 +23,9 @@ https://github.com/cs50/libcs50
 
 ### Troubleshooting
 
-    Mac make install error: No such file or directory #142
-    https://github.com/cs50/libcs50/issues/142
+1. [Mac make install error: No such file or directory #142](https://github.com/cs50/libcs50/issues/142)
 
-    macOS Mojave compiling issue #158
-    https://github.com/cs50/libcs50/issues/158
+2. [macOS Mojave compiling issue #158](https://github.com/cs50/libcs50/issues/158)
 
 ```sh
 gcc -lcs50-9.0.0 hello.c -o hello.out
