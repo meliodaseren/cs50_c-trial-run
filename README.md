@@ -1,15 +1,18 @@
 ## Trial run the C code from CS50
 
+1. Use `clang`
 ```shell
 clang hello.cpp -o hello.out
 ./hello.out
 ```
 
+2. Use `gcc`
 ```shell
 gcc hello.cpp -o hello.out
 ./hello.out
 ```
 
+3. Use `make`
 ```shell
 make hello
 ./hello
